@@ -2,7 +2,7 @@
 
 **A realistic, browser-based FPV drone simulator with cinematic visuals, physics-driven flight, and immersive post-processing — inspired by The Zone drone sim.**
 
-> No install. No backend. Just open `fpv-sim-v7-ultra.html` in Chrome and fly.
+> No install. No backend. Just open `index.html` in Chrome and fly.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-r128-000000?style=flat&logo=three.js)
@@ -98,7 +98,7 @@ Hot-swap drones mid-flight with `1` / `2` keys.
 
 ## 🚀 Quick Start
 
-1. **Download** `fpv-sim-v7-ultra.html`
+1. **Download** `index.html`
 2. **Open** in Chrome (or any modern browser)
 3. **Choose drone** → select controller or keyboard → Fly!
 
@@ -164,7 +164,7 @@ The simulator is built as a single HTML file with modular ES6 classes:
 
 ```
 fpv-drone-sim/
-├── fpv-sim-v7-ultra.html    # Complete simulator (single file)
+├── index.html    # Complete simulator (single file)
 ├── README.md                 # This file
 └── LICENSE                   # MIT License
 ```
